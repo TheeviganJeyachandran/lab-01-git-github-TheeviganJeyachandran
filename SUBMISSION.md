@@ -1,20 +1,17 @@
 # Lab 01 - Submission
 
-Fill in each section below. The automated check (and your TA) will look for
-real answers here - the `TODO`s must be gone before the check turns green.
-
 ## Name
 
-TODO - your full name
+Theevigan Jeyachandran
 
 ## What I learned
 
-TODO - two or three sentences on something that clicked this lab
+In this lab, I was clearly able to understand what commits, branches, and issues do and their uses in git. I liked how your commits and pull requests can be tracked by git.
 
 ## A Git command I will remember
 
-TODO - name one command and say, in a sentence, when you'd reach for it
+git restore - this command is useful when you or people you work with make a mistake and are unable to fix it restore the most recent file. Helped me a lot in the past. 
 
 ## Evidence (links)
 
-- Merged pull request: TODO (paste the PR URL)
+- Merged pull request: https://github.com/TheeviganJeyachandran/lab-01-git-github-TheeviganJeyachandran/pull/2
